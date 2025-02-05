@@ -41,8 +41,8 @@ function Page() {
             {/* LAST SECTION */}
             <div className='text-center py-16'>
                 <GiLobArrow className='w-10 h-10 text-[#4a54e5] mx-auto' />
-                <p className='text-black text-lg mt-5'>WE CAN'T WAIT TO MEET YOU</p>
-                <p className='text-black text-2xl font-bold mt-2'>Let's Talk</p>
+                <p className='text-black text-lg mt-5'>WE CAN T WAIT TO MEET YOU</p>
+                <p className='text-black text-2xl font-bold mt-2'>Let s Talk</p>
                 <button className='mt-5 px-6 py-2 border border-black text-black hover:bg-blue-500 transition'>Try it free now</button>
             </div>
         </div>

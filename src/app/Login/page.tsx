@@ -52,7 +52,7 @@ export default function LoginPage() {
           </button>
         </form>
         <div className="mt-4 text-center">
-          <p className="text-gray-600">Don't have an account?</p>
+          <p className="text-gray-600">Don t have an account?</p>
           <button
             onClick={handleSignUp}
             className="text-blue-600 font-semibold hover:underline"
